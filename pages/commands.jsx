@@ -18,7 +18,7 @@ export default function Commands() {
          Komutlar
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        Komutları LakenT Botta Kullanarak Daha Detaylı Bilgiler Alabilirsiniz. { O Kadar Çok Komut Var Ki Hepsini Buraya Ekleyemedim :D }
         </p>
 
         <div>
