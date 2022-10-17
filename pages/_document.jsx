@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="LakenT Bot" />
           <link
             rel="icon"
-            href="https://cdn.discordapp.com/avatars/1015871726304899122/6b631c6d9c0825592a1cb7b825508301.png?size=2048"
+            href="https://i.pinimg.com/236x/57/db/92/57db92a59ae144291e0c11f684fbe73a.jpg"
             type="image/x-icon"
           />
           <meta
