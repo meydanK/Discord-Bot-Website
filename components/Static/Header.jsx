@@ -13,7 +13,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
+                        <img width="32" className="rounded-full icon-glow" src="https://i.pinimg.com/236x/57/db/92/57db92a59ae144291e0c11f684fbe73a.jpg" />
                         <p className=" font-extrabold ml-1 text-2xl">LakenT Bot</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
@@ -76,14 +76,14 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="/img/logo2.png" 
+                            <img src="https://i.pinimg.com/236x/57/db/92/57db92a59ae144291e0c11f684fbe73a.jpg" 
                                 className={`
                                     rounded-full 
                                 `}
                                 width="48" height="48"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Astra</span>Bot</a>
+                              <a href="/"><span className="text-amber-400">LakenT</span>Bot</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
