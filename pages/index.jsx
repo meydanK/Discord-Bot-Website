@@ -23,13 +23,13 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Astra
+          Davet Et
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Oy Ver</a>
   </Link>
         </div>
 
@@ -47,8 +47,9 @@ Vote Astra</a>
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "En Yeni ve En Gelişmiş Özellikler İle Sunucuna Hava Katmaya Ne Dersin :)" }}/>
-            <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Astra
+            <a href="https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847
+" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+              <i className="fab fa-discord mr-2" />Davet Et
             </a>
           </div>
 
