@@ -13,13 +13,11 @@ export default function Index() {
           LakenT Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       LakenT Bot ile Alışılmışın Dışına Çıkıp Yeni Modern Özellikleri Denemeye Ne Dersin?
- 
-	  </p>
+          LakenT Bot ile Alışılmışın Dışına Çıkıp Yeni Modern Özellikleri Denemeye Ne Dersin?
+	</p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847
-"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
