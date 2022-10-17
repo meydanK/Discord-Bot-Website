@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fshiftdelete.net%2Fwp-content%2Fuploads%2F2021%2F03%2Fdiscord-bot-ekleme-nasil-yapilir-discord-muzik-mesaj-silme-botu-ekleme.jpeg%3Ffit%3D1280%252C720%26ssl%3D1&imgrefurl=https%3A%2F%2Fshiftdelete.net%2Fdiscord-bot-ekleme-nasil-yapilir-discord-muzik-mesaj-silme-botu-ekleme&tbnid=Aq0bdkfeiMbXwM&vet=12ahUKEwiP0fi2yuf6AhXRn_0HHYDFAjMQMygAegUIARC-AQ..i&docid=ZfYbVvA_qrclKM&w=1280&h=720&q=discord%20bot&ved=2ahUKEwiP0fi2yuf6AhXRn_0HHYDFAjMQMygAegUIARC-AQ" />
+      <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           LakenT Bot
@@ -45,7 +45,7 @@ Oy Ver</a>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"LakenT Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "En Yeni ve En Gelişmiş Özellikler İle Sunucuna Hava Katmaya Ne Dersin :)" }}/>
             <a href="https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847
 " className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
