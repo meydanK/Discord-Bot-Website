@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@" />
           <meta property="og:url" content="https://lakent.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="LakenT Bot" />
+          <meta property="og:title" content="LakenT" />
           <link
             rel="icon"
             href="https://i.pinimg.com/236x/57/db/92/57db92a59ae144291e0c11f684fbe73a.jpg"
