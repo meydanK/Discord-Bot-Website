@@ -37,14 +37,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Destek Sunucusu",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/ZRjYYxPTrg",
     },
     {
       link: true,
       name: "Botu Ekle",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://bit.ly/3PHDjyC",
+      href: "https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847",
     },
        {
       link: true,
