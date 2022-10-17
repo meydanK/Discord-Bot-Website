@@ -70,13 +70,13 @@ Vote Astra</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenli</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenilir</p>
                   <p className="text-gray-500 line-clamp-4">Hiçbir Kişisel Verinize Erişim Sağlamayan LakenT Bot İle Daha Güvenli Bir Discord Mümkün!</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek Ekibi</p>
                   <p className="text-gray-500 line-clamp-4">7/24 Aktif Destek Ekibiyle Her Zaman Sorularınızı Sorabilirsiniz ve Önerilerinizi İletebilirsiniz!</p>
                 </div>
               </div>
@@ -89,8 +89,8 @@ Vote Astra</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">Senin İçin En İyisi</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Geleceğe Giden Kapıyı Açmak İçin Haydi Ne Bekliyorsun!</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1031133758440607804/1031575092838277141/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
