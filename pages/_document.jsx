@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="https://i8.ae/qGUzJ" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="LakenT Bot" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://i8.ae/qGUzJ"
             type="image/x-icon"
           />
           <meta
