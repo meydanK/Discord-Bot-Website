@@ -4,26 +4,8 @@ import Link from "next/link";
 export default function Commands() {
   const commands = [
     "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "/yardım",
+    "/istatistik"
       ]
   return (
     <>
@@ -33,7 +15,7 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Komutlar
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
         You can get information about the commands of the Astra Bot.
@@ -83,23 +65,24 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://bit.ly/3PHDjyC"}>
+  <Link href={"https://discord.com/oauth2/authorize?client_id=1015871726304899122&scope=bot%20applications.commands&permissions=2146958847
+"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Davet Et</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/ZRjYYxPTrg"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Support Server</a>
+Destek Sunucusu</a>
   </Link>
 
   <div className="py-10"></div>
   
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Oy Ver</a>
   </Link>
 </div>
 
