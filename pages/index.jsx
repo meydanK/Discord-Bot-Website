@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck.png" />
+      <img width="500" src="https://i.pinimg.com/236x/57/db/92/57db92a59ae144291e0c11f684fbe73a.jpg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           LakenT Bot
@@ -89,7 +89,7 @@ Oy Ver</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Senin İçin En İyisi</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Geleceğe Giden Kapıyı Açmak İçin Haydi Ne Bekliyorsun!</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Geleceğe Giden Kapıyı Açmak İçin Botu Sunucuna Ekle Ve Farkı Gör!</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1031133758440607804/1031575092838277141/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
