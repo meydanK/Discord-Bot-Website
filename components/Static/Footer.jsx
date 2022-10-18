@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="/img/logo2.png" className="rounded-full w-12" />
+                                <img src="https://cdn.discordapp.com/attachments/1031133760739086386/1031893884147617884/logo.png" className="rounded-full w-12" />
                                 <p className="font-semibold text-xl text-white">LakenT Bot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
@@ -23,7 +23,7 @@ export default function Footer() {
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
                                         />
-                                        English
+                                        Türkçe
                                         <ChevronDownIcon
                                             className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
                                             aria-hidden="true"
@@ -67,11 +67,11 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal</p>
                             <div>
                                 <Link href="https://discord.gg/ZRjYYxPTrg">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
+                                    <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>
@@ -91,11 +91,11 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        ToS
                                     </a>
                                 </Link>
                             </div>
@@ -118,7 +118,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"LakenT Bot ❤️"}
+                            {"LakenT Bot !Meydam#4281"}
                         </p>
                     </div>
                 </div>
