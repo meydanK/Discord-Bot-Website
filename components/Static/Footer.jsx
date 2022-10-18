@@ -117,7 +117,7 @@ export default function Footer() {
                                     Bot Online
                                 </p>
                         </div>
-                        <p className="text-white text-center sm:text-right text-opacity-50">
+                        <p className="text-white text-center sm:text-right text-opacity-80">
                             {"LakenT Bot 💖 !Meydan#4281"}
                         </p>
                     </div>
