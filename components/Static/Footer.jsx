@@ -118,7 +118,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-80">
-                            {"LakenT Bot 💖 !Meydan#4281"}
+                            {"LakenT Bot by !Meydan#4281"}
                         </p>
                     </div>
                 </div>
